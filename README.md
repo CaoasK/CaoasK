@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CaoasK
-- 👀 I’m interested in video games and modding said video games.
+- 👋 Heyo, I’m @CaoasK
+- 👀 Interested in video games and modding said video games.
 - 🌱 I’m currently learning basic programming with C++. I'm completely new to all of this and I want to learn it all!
 - 💞️ I don't have anything to collab on, yet!
 - 📫 How to reach me: Message me on here.
